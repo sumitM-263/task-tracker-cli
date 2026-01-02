@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "description": "Study nodejs",
+    "status": "todo",
+    "createdAt": 1767349035176,
+    "updatedAt": 1767349035176
+  },
+  {
+    "id": 3,
+    "description": "Listen a song",
+    "status": "in-progress",
+    "createdAt": 1767349072078,
+    "updatedAt": 1767349827191
+  },
+  {
+    "id": 4,
+    "description": "Workout",
+    "status": "done",
+    "createdAt": 1767349090869,
+    "updatedAt": 1767349672327
+  },
+  {
+    "id": 5,
+    "description": "Onw backend project",
+    "status": "todo",
+    "createdAt": 1767349130929,
+    "updatedAt": 1767349616095
+  }
+]
